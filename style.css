@@ -1,0 +1,367 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.box1{
+    width: 100%;
+    height: 540px;
+     display: flex;
+}
+.one{
+    width: 57%;
+    height: 550px;   
+}
+.logo{
+  height: 115px;
+    width: 100%;
+    margin-top: 65px;
+    display: flex;
+}
+.Slogo{
+    width: 190px;
+    padding-left: 170px;
+}
+.logtxt{
+    padding-top: 20px;
+    padding-left: 240px;
+    padding-right: 25px;
+    font-weight: 700;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    cursor: pointer;
+}
+.btn1{
+    border: none;
+    color: white;
+    padding: 11px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 8px 2px;
+    cursor: pointer;
+background-color: black;
+color: white;
+}
+.mov{
+    width: 100%;
+    height: 100px; 
+}
+.movtxt{
+    font-weight: 600;
+    font-size: 40px;
+    color: #282c3f;
+    padding-left:160px;
+}
+.movtxt2{
+    color: #686b78;
+    font-size: 21px;
+   line-height: 40px;
+   font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+   padding-left: 160px;
+   letter-spacing: .9px;
+}
+.search{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.loccimg{
+    margin-top:9px;
+}
+form{
+ 
+    margin-left: 100px;
+    width: 620px;
+    height: 60px;
+    display: flex;
+}
+form input{
+  
+    flex: 1;
+    outline: none;
+    font-size: 16px;
+    font-weight: 700;
+    color:#93959f;
+    padding-left: 18px;
+}
+form button{
+    background: #fc8019;
+    font-size: 15px;
+    font-weight: 900;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    border: 0px;
+    width: 140px;
+    color: white;
+}
+.pop{
+
+    width: 100%;
+    height: 100px;
+    padding-left: 165px;
+    padding-top: 10px;
+}
+.cities1{
+    font-size: 14px;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    color: #93959f;
+}
+.cities2{
+    color: #686b78;
+    
+}
+.two{
+   width: 46%;
+    height: 550px;   
+}
+.swiglogo{
+    width: 100%;
+    height: 550px;
+}
+.box2{
+    width: 100%;
+    height: 400px;
+
+     display: flex;
+}
+.three{
+    width: 33.3%;
+       height: 400px;
+       background-color:#2b1e16;  
+   }
+   .four{
+    width: 33.3%;
+       height: 400px;   
+       background-color: #2b1e16; 
+   } .five{
+    width: 33.3%;
+    background-color: #2b1e16; 
+       height: 400px;   
+   }
+   .A{
+    width: 50%;
+    height: 250px;
+    padding-left: 60px;
+   
+   }
+   .Aimg{
+    padding-top: 10px;
+    width: 120px;
+    height: 200px;
+   }
+   .box2txt{
+color: white;
+font-size: 20px;
+font-family:ProximaNova, arial, "Helvetica Neue", sans-serif;
+font-size: 700;
+   }
+   .box2txt1{
+color: #e0cbc1;
+}
+.B{
+    width: 50%;
+    height: 250px;
+    padding-right: 10px;
+}
+
+.box3{
+   
+    width: 100%;
+    height: 570px;
+    display: flex;
+}
+.six{
+    /* width: 10%; */
+    height: 570px;
+
+}
+.seven{
+  
+    width: 23%;
+    height: 570px;
+    margin-left: 96px;
+    margin-right: 10px;
+}
+.eight{
+   
+    width: 22%;
+    height: 570px;
+    margin-right: 150px;
+}
+.Dimg{
+    width: 380px;
+   
+}
+.Eimg{
+    padding-top: 87px;
+    width: 380px;
+    
+}
+.sixtxt{
+  
+    width: 45%;
+    margin-top: 160px;
+    margin-left: 160px;
+    font-size: 35px;
+    color: #282c3f;
+    font-family:ProximaNova, arial, "Helvetica Neue", sans-serif;
+}
+.sixtxt1{
+   
+        color: #7e808c;
+        font-size: 18px;
+       font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+       padding-left: 160px;
+       letter-spacing: .7px;
+    
+}
+.sixa{
+    cursor: pointer;
+    width: 80%;
+    display: flex;
+    margin-top: 60px;
+}
+.googleimg{
+    width: 200px;
+    height: 50px;
+    margin-left: 160px;
+}
+.appleimg{
+    width: 200px;
+    height: 50px;
+    margin-left: 20px;
+}
+.box4{
+    background-color: black;
+    height: 420px;
+    width: 100%;
+    display: flex;
+}
+.box4a{
+   
+    width: 250px;
+    height: 350px;
+    margin-top: 70px;
+    margin-left: 160px;
+}
+.box4b{
+  
+    width: 350px;
+    height: 370px;
+    margin-top: 70px;
+    margin-left: 40px;
+    margin-right: 20px;
+}
+.box4c{
+
+      width: 380px;
+      height: 370px;
+      margin-top: 70px;
+      margin-right: 100px;
+  }
+.b4{
+color: #808080;
+font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+font-size: 15px;
+font-weight: 700;
+}
+.b4a{
+color: white;
+font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+}
+.lasttxt{
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    font-size: 14px;
+    font-weight: 700;
+    width: 10%;
+    height: 20px;
+    margin-left: 160px;
+    margin-top: 70px;
+    color:#808080;
+}
+.box5{
+    background-color: black;
+    height: 1580px;
+    width: 100%;
+    margin-top: -70px;
+}
+.box5inside{
+    display: flex;
+}
+.box5a{
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+    margin-top: 30px;
+    margin-left: 160px;
+    width: 250px;
+    height: 1500px;
+    color: white;
+}
+.box5b{
+  color: white;
+    width: 350px;
+    height: 1500px;
+    margin-top: 30px;
+    margin-left: 40px;
+    margin-right: 20px;
+    font-family: ProximaNova,arial,Helvetica Neue,sans-serif;
+}
+.footer{
+    background-color: black;
+    display: flex;
+    width: 100%;
+    height: 90px;
+  
+}
+.f1{
+    margin-left: 150px;
+    margin-top: 10px;
+  
+    width: 150px;
+    height: 50px;
+}
+.ftlogo{
+    width: 150px;
+}
+.f2{
+     margin-top: 20px;
+    color: white;
+    font-size: 21px;
+    width: 750px;
+    height: 30px;
+}
+.f3{
+    margin-top: 20px;
+    width:30px;
+    height: 70px;
+    margin-left: 140px;
+}
+.f4{
+    margin-top: 20px;
+    width:30px;
+    height: 70px;
+    margin-left: 20px;
+}
+.ftimglogo{
+    width: 25px;
+}
+.main{
+    width: 100%;
+    height: 10px;
+    background-color: black;
+    padding-top: 10px;
+}
+.new1{
+    width: 82%;
+    margin-left: 160px;
+    color: grey;
+    size: 10px;
+  
+}
+.new2{
+    width: 82%;
+    margin-left: 160px;
+    color: grey;
+    size: 10px;
+  
+}
